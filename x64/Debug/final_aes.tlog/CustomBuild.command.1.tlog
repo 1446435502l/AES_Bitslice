@@ -1,0 +1,2 @@
+^E:\FINAL_AES\XOR.ASM
+E:\CTF\nasm\nasm.exe -f win64 xor.asm -o xor.asm.obj
