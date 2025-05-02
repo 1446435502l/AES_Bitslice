@@ -2,9 +2,8 @@
 使用比特切片技术对AES算法进行优化
 
 所需工具参考教程：
-SASM汇编IDE：
 
-https://dman95.github.io/SASM/english.html
+SASM汇编IDE：https://dman95.github.io/SASM/english.html
 
 NASM汇编器安装：https://blog.csdn.net/yanceyxin/article/details/142696673
 
