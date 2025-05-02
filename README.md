@@ -1,15 +1,21 @@
 # AES_Bitslice
 使用比特切片技术对AES算法进行优化
 
-所需工具参考教程：
+# 所需工具安装：
 
 SASM汇编IDE：https://dman95.github.io/SASM/english.html
 
 NASM汇编器安装：https://blog.csdn.net/yanceyxin/article/details/142696673
 
-visual studio如何用链接nasm汇编：https://www.cnblogs.com/ajanuw/p/14422400.html
+# 生成解决方案步骤：
 
-主要参考论文：
+1. 项目右击属性 -> 链接器 -> 系统，启用大地址选择为否
+
+2. visual studio如何用链接nasm汇编：https://www.cnblogs.com/ajanuw/p/14422400.html
+
+3. 生成解决方案
+
+# 主要参考论文：
 
 Canright D .A very compact Rijndael S-box[J].technical reports collection, 2005.DOI:doi:http://dx.doi.org/.
 
